@@ -1,4 +1,4 @@
-# RAG Document Q&A — Backend
+# RAG Document Q&A 
 
 A Retrieval-Augmented Generation (RAG) system that answers questions grounded
 in uploaded PDF documents. Built with LangChain-style RAG logic, Pinecone
