@@ -26,7 +26,7 @@ FastAPI REST API.
 - **LLM:** Groq (`llama-3.1-8b-instant`)
 - **Backend/API:** FastAPI
 - **UI:** Streamlit
-- **Frontend (separate repo):** React (Vite) — calls the FastAPI endpoints
+
 
 ## Project Structure
 
