@@ -5,7 +5,7 @@ in uploaded PDF documents. Built with LangChain-style RAG logic, Pinecone
 (vector database), and Groq (LLM), exposed through both a Streamlit UI and a
 FastAPI REST API.
 
-**Live demo (Streamlit Cloud):** https://rag-backend-fafjrsqtictxrmq5pehvr4.streamlit.app/
+**Live demo (Streamlit Cloud):** https://rag-backend-2appzgdkwqly4xpdn3rdeyj.streamlit.app/**
 
 ## What it does
 
